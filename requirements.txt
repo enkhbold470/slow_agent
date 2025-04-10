@@ -1,0 +1,6 @@
+openai
+pyautogui
+playwright
+browser-use
+pillow
+python-dotenv

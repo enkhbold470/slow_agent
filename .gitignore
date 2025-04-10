@@ -1,0 +1,59 @@
+.venv/
+.env
+logs/
+screenshots/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info/
+*.deb
+*.rpm
+*.manifest
+*.spec
+*.wheel
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller
+#  Usually these files are written by a python script; excluding them is not always
+#  appropriate.
+#  Use a pattern like this to only ignore specific PyInstaller generated files
+#  foo.exe:
+#     foo.exe
+#     foo.exe.manifest
+#  bar.app:
+#     bar.app/Contents
+#  ...etc...
+#
+# *._MEIPASS
+# !.env
+
+# Notebooks
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.sock
+
+# VS Code
+.vscode/
+
+# Others
+instance/
+htmlcov/
+.pytest_cache/
+.coverage
